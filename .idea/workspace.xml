@@ -6,15 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2fe4a018-31a4-477d-8725-7bedca2eff1a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cifar-10-batches-py/batches.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cifar-10-batches-py/data_batch_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cifar-10-batches-py/data_batch_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cifar-10-batches-py/data_batch_3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cifar-10-batches-py/data_batch_4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cifar-10-batches-py/data_batch_5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cifar-10-batches-py/readme.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cifar-10-batches-py/test_batch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cifar-10-python.tar.gz" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
